@@ -58,3 +58,11 @@ Results saved in `/results/model_comparison.csv`
 Random Forest achieved the best performance among the tested models, capturing non-linear relationships in restaurant ratings effectively.
 
 ## 📁 Repository Structure
+Restaurant-Rating-Analysis-ML/
+│
+├── data/
+├── notebooks/
+├── figures/
+├── results/
+├── requirements.txt
+└── README.md
